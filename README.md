@@ -1,4 +1,4 @@
-# Terminé !
+# Terminé ! dans une nouvelle branche
 
 # :wave: The Basics of GitHub 
 
